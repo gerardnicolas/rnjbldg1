@@ -12,7 +12,7 @@ export const Header = () => {
             <a
               href="http://m.me/profile.php?id=61553862232023"
               target="_blank"
-              className="hover:text-gray-400 transition-colors duration-300 px-5 py-2 bg-tiffany-blue text-cream-white rounded-full"
+              className="hover:bg-dark-teal transition-colors duration-300 px-5 py-2 bg-tiffany-blue text-cream-white rounded-full"
             >
               Inquire Now
             </a>
