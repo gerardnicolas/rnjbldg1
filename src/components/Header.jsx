@@ -3,7 +3,7 @@ export const Header = () => {
     <header>
       <nav className="flex flex-col md:flex-row justify-between items-center p-5 md:p-10 bg-cream-white text-charcoal font-didact text-base md:text-xl">
         <img
-          src="./src/assets/tiffanyAndBlackLogoRNJ.png"
+          src="/tiffanyAndBlackLogoRNJ.png"
           alt="Logo"
           className="w-auto h-12 md:h-16"
         />
