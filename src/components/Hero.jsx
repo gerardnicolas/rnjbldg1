@@ -13,7 +13,7 @@ const Hero = () => {
           Welcome to RNJ Marikina Heights
         </h1>
         <p className="font-didact font-medium text-lg text-center md:text-left">
-          A 2 storey commercial building in the heart of Marikina Heights with a
+          A 2-storey commercial building in the heart of Marikina Heights with a
           variety of stores to choose from.
         </p>
       </div>
