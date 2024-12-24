@@ -18,7 +18,7 @@ const Hero = () => {
         </p>
       </div>
 
-      <div className="flex flex-wrap justify-around items-center p-4 mb-10 mx-4 md:mx-52 bg-charcoal text-cream-white font-didact text-lg rounded">
+      <div className="flex flex-wrap justify-around items-center p-4 mb-20 mx-4 md:mx-52 bg-charcoal text-cream-white font-didact text-lg rounded">
         <img src="/logos/icecreamhouselogo_clearbg.png" alt="" className="h-16 w-auto mb-4 md:mb-0"/>
         <img src="/logos/ceblhuilogo.png" alt="" className="h-16 w-auto mb-4 md:mb-0"/>
         <img src="/logos/dlogofin.webp" alt="" className="h-28 w-auto mb-4 md:mb-0"/>
