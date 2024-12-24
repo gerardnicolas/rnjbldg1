@@ -3,7 +3,7 @@ const Hero = () => {
     <div>
       <div className="w-full h-auto">
         <img
-          src="./src/assets/rnjbuildingcover_cropped.jpg"
+          src="/rnjbuildingcover_cropped.jpg"
           className="w-full min-h-svh object-cover sm:h-64 md:h-80 lg:h-96"
         />
       </div>
@@ -19,11 +19,11 @@ const Hero = () => {
       </div>
 
       <div className="flex flex-wrap justify-around items-center p-4 mb-10 mx-4 md:mx-52 bg-charcoal text-cream-white font-didact text-lg rounded">
-        <img src="./src/assets/icecreamhouselogo_clearbg.png" alt="" className="h-16 w-auto mb-4 md:mb-0"/>
-        <img src="./src/assets/logos/ceblhuilogo.png" alt="" className="h-16 w-auto mb-4 md:mb-0"/>
-        <img src="./src/assets/logos/dlogofin.webp" alt="" className="h-28 w-auto mb-4 md:mb-0"/>
-        <img src="./src/assets/logos/pandemnllogo.webp" alt="" className="h-16 w-auto mb-4 md:mb-0"/>
-        <img src="./src/assets/logos/tanvlogo.jpg" alt="" className="h-16 w-auto rounded-full mb-4 md:mb-0"/>
+        <img src="/logos/icecreamhouselogo_clearbg.png" alt="" className="h-16 w-auto mb-4 md:mb-0"/>
+        <img src="/logos/logos/ceblhuilogo.png" alt="" className="h-16 w-auto mb-4 md:mb-0"/>
+        <img src="/logos/logos/dlogofin.webp" alt="" className="h-28 w-auto mb-4 md:mb-0"/>
+        <img src="/logos/logos/pandemnllogo.webp" alt="" className="h-16 w-auto mb-4 md:mb-0"/>
+        <img src="/logos/logos/tanvlogo.jpg" alt="" className="h-16 w-auto rounded-full mb-4 md:mb-0"/>
       </div>
     </div>
   );
