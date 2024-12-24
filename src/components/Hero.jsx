@@ -20,10 +20,10 @@ const Hero = () => {
 
       <div className="flex flex-wrap justify-around items-center p-4 mb-10 mx-4 md:mx-52 bg-charcoal text-cream-white font-didact text-lg rounded">
         <img src="/logos/icecreamhouselogo_clearbg.png" alt="" className="h-16 w-auto mb-4 md:mb-0"/>
-        <img src="/logos/logos/ceblhuilogo.png" alt="" className="h-16 w-auto mb-4 md:mb-0"/>
-        <img src="/logos/logos/dlogofin.webp" alt="" className="h-28 w-auto mb-4 md:mb-0"/>
-        <img src="/logos/logos/pandemnllogo.webp" alt="" className="h-16 w-auto mb-4 md:mb-0"/>
-        <img src="/logos/logos/tanvlogo.jpg" alt="" className="h-16 w-auto rounded-full mb-4 md:mb-0"/>
+        <img src="/logos/ceblhuilogo.png" alt="" className="h-16 w-auto mb-4 md:mb-0"/>
+        <img src="/logos/dlogofin.webp" alt="" className="h-28 w-auto mb-4 md:mb-0"/>
+        <img src="/logos/pandemnllogo.webp" alt="" className="h-16 w-auto mb-4 md:mb-0"/>
+        <img src="/logos/tanvlogo.jpg" alt="" className="h-16 w-auto rounded-full mb-4 md:mb-0"/>
       </div>
     </div>
   );
